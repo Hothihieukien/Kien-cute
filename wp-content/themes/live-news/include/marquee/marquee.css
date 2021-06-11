@@ -1,0 +1,94 @@
+.marquee-cont {
+	position: relative;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    border-top: 1px solid #555;
+	background: #444;
+}
+
+.marquee-cont .marquee-title {
+	position: absolute;
+	width: auto;
+	min-width: auto;
+	padding: 15px;
+	background: #333;
+	color: #fff;
+	z-index: 2;
+	font-weight: 700;
+	font-size: 18px;
+    text-shadow: 1px 1px black;
+}
+
+.marquee-cont .marquee,
+.marquee-cont .marquee-with-options,
+.marquee-cont .marquee-vert-before,
+.marquee-cont .marquee-vert {
+    width: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+	padding: 15px;
+	margin-left: 140px;
+}
+
+.marquee-vert  {
+    display: inline-block;
+	height: 20px;
+	color: #fff;
+	max-width: 300px;
+	overflow: hidden;
+	border-left: 1px solid #777;
+	margin: 0 0 0 20px;
+	padding:  0px 10px;
+	vertical-align: middle;
+}
+
+.marquee-vert a {
+	color: #fff;
+	line-height: 30px;
+	font-weight: 700;
+}
+
+.marquee-vert a :hover {
+	color: #eee;
+}
+
+
+.marquee-with-options a {
+	padding: 0 10px;
+    font-size: 12px;
+    font-weight: 700;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.marquee-with-options a:hover  {
+	color: #EC521E;	
+}
+
+.marquee-with-options a .dashicons {
+	color: #eee;
+}
+
+.triangle-right {
+    width: 0;
+    height: 0;
+    border-bottom: 50px solid transparent;
+    border-left: 30px solid #333;
+    position: absolute;
+    top: 0;
+    left: 100%;
+	z-index:9;
+	oveflow: hidden;
+}
+.triangle-right-1 {
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-left: 30px solid #333;
+    position: absolute;
+    top: 0;
+    left: 100%;
+	z-index:9;
+	oveflow: hidden;
+}
