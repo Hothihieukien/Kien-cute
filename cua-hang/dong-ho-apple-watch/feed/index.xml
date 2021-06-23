@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My Page	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://hothihieukien.github.io/Kien-cute</link>
+	Các phản hồi luận về: Đồng hồ Apple Watch	</title>
+	<atom:link href="http://localhost/myproject/wordpress/cua-hang/dong-ho-apple-watch/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hothihieukien.github.io/Kien-cute/cua-hang/dong-ho-apple-watch/</link>
 	<description>Hồ Thị Hiếu Kiên</description>
 	<lastBuildDate>Mon, 21 Jun 2021 11:32:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Đồng hồ Apple Watch bởi KienHo		</title>
+		Bởi: KienHo		</title>
 		<link>https://hothihieukien.github.io/Kien-cute/cua-hang/dong-ho-apple-watch/#comment-5</link>
 
 		<dc:creator><![CDATA[KienHo]]></dc:creator>
