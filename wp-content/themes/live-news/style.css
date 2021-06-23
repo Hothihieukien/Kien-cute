@@ -2,7 +2,7 @@
 Theme Name: Live News
 Author: seosbg
 Description: Magazine and Multipurpose WordPress Theme. Gutenberg Compatible, WooCommerce Compatible, Full Responsive, Sticky Post Options, Latest Post Options, Content Options, Header Options, Back To Top Button, Social Icons, Microdata, Header Image Zoom, Animations and Custom Colors. Live News Theme is very fast and SEO friendly live-news Theme can be used by NEWS, bloggers, magazine, portfolio, photography, newspaper, E-Commerce, news and many more. The theme is for any business.
-Version: 1.1.7
+Version: 1.1.8
 Author URI: https://seosthemes.com/
 Theme URI: https://seosthemes.com/live-news-wordpress-theme/
 License: GNU General Public License v2 or later
@@ -2122,6 +2122,75 @@ overflow: hidden;
     transition: all 0.2 ease-out;	
 }
 
+.recent-posts-widget-with-thumbnails .rpwwt-post-title {
+	font-weight: 700;
+}
+
+
+
+.recent-posts-widget-with-thumbnails .wp-post-image {
+    width: 150px !important;
+    height: 100px !important;
+    object-fit: cover;
+    object-position: 50% 50%;
+    margin-left: 5px;
+    transform: scale(1);
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    transition: all 0.2 ease-out;
+}
+
+.recent-posts-widget-with-thumbnails .wp-post-image:hover {
+    transform: scale(1.1);
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    transition: all 0.2 ease-out;
+}
+.recent-posts-widget-with-thumbnails ul li a {
+	display: block;
+	padding-bottom: 10px;
+}
+
+.recent-posts-widget-with-thumbnails .rpwwt-post-author,
+.recent-posts-widget-with-thumbnails .rpwwt-post-categories,
+.recent-posts-widget-with-thumbnails .rpwwt-post-date {
+	font-size: 12px;
+	line-height: 16px;
+}
+
+.recent-posts-widget-with-thumbnails .rpwwt-post-author:before {
+	content: "\f110";
+	font-family: dashicons;
+	padding-right: 5px;
+    font-size: 15px !important;
+    vertical-align: bottom;
+}
+
+.recent-posts-widget-with-thumbnails .rpwwt-post-categories:before {
+	content: "\f318";
+	font-family: dashicons;
+	padding-right: 5px;
+    font-size: 15px !important;
+    vertical-align: bottom;
+}
+
+.recent-posts-widget-with-thumbnails .rpwwt-post-date:before {
+	content: "\f145";
+	font-family: dashicons;
+	padding-right: 5px;
+    font-size: 15px !important;
+    vertical-align: bottom;
+}
+
+.rpwwt-post-excerpt {
+	margin-top: 10px;
+	line-height: 20px;
+}
+
 footer .img-recent-post img {
 	width: 100%;
 	height: 50px;
@@ -2255,6 +2324,10 @@ footer .cont-recent-post {
 #wp-calendar #today {
 	background: #EC521E;
 	color: #fff;
+}
+
+#wp-calendar #today a {
+	color: #fff;	
 }
 
 footer #wp-calendar tbody .pad {
