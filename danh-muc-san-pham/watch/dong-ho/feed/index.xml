@@ -12,32 +12,12 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/watch/dong-ho/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hothihieukien.github.io/Kien-cute</link>
 	<description>Hồ Thị Hiếu Kiên</description>
-	<lastBuildDate>Mon, 21 Jun 2021 11:32:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jul 2021 07:16:03 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>Đồng hồ Apple Watch</title>
-		<link>https://hothihieukien.github.io/Kien-cute/cua-hang/dong-ho-apple-watch/</link>
-					<comments>https://hothihieukien.github.io/Kien-cute/cua-hang/dong-ho-apple-watch/#comments</comments>
-		
-		<dc:creator><![CDATA[KienHo]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 03:59:10 +0000</pubDate>
-				<guid isPermaLink="false">https://hothihieukien.github.io/Kien-cute/?post_type=product&#038;p=121</guid>
-
-					<description><![CDATA[Kích thước lớn:  42mm(1.7 in) và 44 mm(1.7 in)
-
-Kích thước nhỏ: 38 mm (1.5 in ) và 40 mm (1.6 in)]]></description>
-										<content:encoded><![CDATA[<h2 id="1-dong-ho-deo-tay-the-hien-ban-l-agrave;-nguoi-biet-quan-l-yacute;-thoi-gian-yacute;-nbsp;nghia-quan-trong-nbsp;cua-dong-ho-deo-tay">Đồng hồ đeo tay thể hiện bạn là người biết quản lý thời gian &#8211; Ý nghĩa quan trọng của đồng hồ đeo tay</h2>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hothihieukien.github.io/Kien-cute/cua-hang/dong-ho-apple-watch/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
