@@ -2,7 +2,7 @@
 <html lang="vi">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Đăng nhập &lsaquo; My Page &#8212; WordPress</title>
+	<title>Đăng nhập &lsaquo; WATCH &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://hothihieukien.github.io/Kien-cute/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://hothihieukien.github.io/Kien-cute/">&larr; Quay lại My Page</a>		</p>
+			<a href="https://hothihieukien.github.io/Kien-cute/">&larr; Quay lại WATCH</a>		</p>
 			</div>
 	<script src="https://hothihieukien.github.io/Kien-cute/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script src="https://hothihieukien.github.io/Kien-cute/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -85,7 +85,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="https://hothihieukien.github.io/Kien-cute/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"c2baaec3c8"};
+var userProfileL10n = {"user_id":"0","nonce":"afbd16ab2f"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {

@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My Page	</title>
+	Bình luận cho WATCH	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hothihieukien.github.io/Kien-cute</link>
-	<description>Hồ Thị Hiếu Kiên</description>
-	<lastBuildDate>Tue, 29 Jun 2021 05:03:35 +0000</lastBuildDate>
+	<description>Thế giới của đồng hồ</description>
+	<lastBuildDate>Sat, 03 Jul 2021 07:20:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Đồng hồ Apple Watch Series 3 bởi KienHo		</title>
+		Phản hồi cho Đồng hồ đôi đẹp Royal Crown đính đá sang trọng – Dwatch R1 bởi KienHo		</title>
 		<link>https://hothihieukien.github.io/Kien-cute/cua-hang/dong-ho-apple-watch/#comment-5</link>
 
 		<dc:creator><![CDATA[KienHo]]></dc:creator>
